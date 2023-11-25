@@ -1,12 +1,21 @@
-This is a simple app that shows data from a database using room and displays it 
+# TP4-Kotlin
+Trinome :
+<br/>
+-Saihi Hachem
+<br/>
+-Yahyaoui Louay
+<br/>
+-Zoghlami Med Ali
+<br/>
 
-Here is the MainActivity View:
+MainActivity:
 <br />
+![C1](https://github.com/mohamedali-zoghlami/TP4-Kotlin/assets/99361410/a8ee8832-c657-4766-92d2-525275bf95e5)
 
-![image](https://github.com/YassineRaboudi007/TP4/assets/93160741/ee394122-b497-4ec8-b18f-1998dd6fda02)
 
-Here is the DetailedActivity View:
+
+DetailedActivity:
 <br />
+![C2](https://github.com/mohamedali-zoghlami/TP4-Kotlin/assets/99361410/7f07343a-079a-40ff-9289-5a240c47035b)
 
 
-![image](https://github.com/YassineRaboudi007/TP4/assets/93160741/fa3c3021-c5d7-47fe-8391-2c7e076a01a6)
